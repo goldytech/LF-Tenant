@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.2/system/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_LF-Tenant.-679037189.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="LF-Tenant.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src/LF-Tenant.Abstractions" t="IncludeRecursive">
+        <e p="ITenantRepository.cs" t="Include" />
+        <e p="ITenantService.cs" t="Include" />
+        <e p="LF-Tenant.Abstractions.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Settings.cs" t="Include" />
+          <e p="Tenant.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="LF-Tenant.Abstractions.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="src/LF-Tenant.Api" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="TenantController.cs" t="Include" />
+        </e>
+        <e p="LF-Tenant.Api.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="LF-Tenant.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="src/LF-Tenant.Business" t="IncludeRecursive">
+        <e p="LF-Tenant.Business.csproj" t="IncludeRecursive" />
+        <e p="TenantService.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="LF-Tenant.Business.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="src/LF-Tenant.Data" t="IncludeRecursive">
+        <e p="LF-Tenant.Data.csproj" t="IncludeRecursive" />
+        <e p="TenantDbContext.cs" t="Include" />
+        <e p="TenantRepository.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="LF-Tenant.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

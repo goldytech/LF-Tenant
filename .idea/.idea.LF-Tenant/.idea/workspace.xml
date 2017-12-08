@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fab8d02a-484f-4613-95f8-6733236a066d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LF-Tenant/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LF-Tenant/.idea/indexLayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LF-Tenant/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LF-Tenant/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LF-Tenant/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vscode/launch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vscode/tasks.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LF-Tenant.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build_docker.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Abstractions/ITenantRepository.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Abstractions/ITenantService.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Abstractions/LF-Tenant.Abstractions.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Abstractions/Models/Settings.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Abstractions/Models/Tenant.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Api/Controllers/TenantController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Api/LF-Tenant.Api.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Api/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Api/Startup.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Api/appsettings.Development.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Api/appsettings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Business/LF-Tenant.Business.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Business/TenantService.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Data/LF-Tenant.Data.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Data/TenantDbContext.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LF-Tenant.Data/TenantRepository.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LF-Tenant.Abstractions/Class1.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Business/Class1.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Business/Models/Tenant.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Abstractions/Models/Settings.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Abstractions/Models/Tenant.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantRepository.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantService.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Api/Program.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Business/TenantService.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Api/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Api/appsettings.json" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1295" />
+    <option name="height" value="667" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LF-Tenant (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="XML" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.src\LF-Tenant.Api">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <configuration name="src\LF-Tenant.Api" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LF-Tenant.Api/bin/Debug/netcoreapp2.0/LF-Tenant.Api.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LF-Tenant.Api" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LF-Tenant.Api/LF-Tenant.Api.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.src\LF-Tenant.Api" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.src\LF-Tenant.Api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fab8d02a-484f-4613-95f8-6733236a066d" name="Default" comment="" />
+      <created>1512465377017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512465377017</updated>
+      <workItem from="1512465379045" duration="13788000" />
+      <workItem from="1512546447876" duration="13233000" />
+      <workItem from="1512570873386" duration="447000" />
+      <workItem from="1512630150280" duration="1310000" />
+      <workItem from="1512632865419" duration="298000" />
+      <workItem from="1512633971732" duration="3819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32895000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1295" height="667" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55950266" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42095914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39964476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46536413" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs</url>
+          <line>60</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs</url>
+          <line>56</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.Development.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Business/TenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.Development.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Business/TenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/Models/Tenant.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.Development.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Business/TenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Business/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/Models/Settings.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/Models/Tenant.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Abstractions/ITenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Business/TenantService.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/appsettings.Development.json" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Data/TenantDbContext.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/LF-Tenant.Api/Controllers/TenantController.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
