@@ -22,7 +22,7 @@ namespace LF_Tenant.Api.Controllers
         [ProducesResponseType((int)HttpStatusCode.Created)]
         public async Task<IActionResult> Register([FromBody]TenantModel model)
         {
-          
+          // test comment
             var isValid = !string.IsNullOrWhiteSpace(model.Name)
                           && !string.IsNullOrWhiteSpace(model.Email)
                           && !string.IsNullOrWhiteSpace(model.Phone)
